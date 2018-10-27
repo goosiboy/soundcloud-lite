@@ -1,0 +1,25 @@
+{
+  "name": "youtube-lite",
+  "version": "1.0.0",
+  "description": "Standalone lite wrapper for youtube API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oinasjo/youtube-lite.git"
+  },
+  "keywords": [
+    "youtube",
+    "API",
+    "electron",
+    "wrapper"
+  ],
+  "author": "Jony Oinas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oinasjo/youtube-lite/issues"
+  },
+  "homepage": "https://github.com/oinasjo/youtube-lite#readme"
+}

@@ -1,3 +1,3 @@
-# Youtube Lite v1
+# Soundcloud Lite v1
 
-Standalone ElectronJS - wrapper for the Youtube API
+Standalone ElectronJS - wrapper for the Soundcloud API

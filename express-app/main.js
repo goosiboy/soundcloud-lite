@@ -1,7 +1,7 @@
 "use strict";
 
 // Imports
-const routes = require("./routes/routes");
+const routes = require("./Routes/routes");
 
 const express = require('express');
 const app = express();

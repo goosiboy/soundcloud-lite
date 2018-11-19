@@ -17,11 +17,11 @@ module.exports = {
     test: function (app) {
         if(Util.NotNullOrEmpty(app)) {
             return ( 
-                app.get('/test', function(req, res) { 
-                    res.send('Test route')} 
+                app.get('/Test', function(req, res) { 
+                    res.send('Express server responded with OK')}
                 )
             );
         };
-    }
+    },
 };
   
